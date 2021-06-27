@@ -57,6 +57,6 @@ set up trojan services on centos7
 五. 安装bbr加速  
   wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh  
   选2安装 选7  
-  进入安装界面 ./tcp/sh  
+  进入安装界面 ./tcp.sh  
   
  
